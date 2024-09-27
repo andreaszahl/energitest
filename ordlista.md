@@ -17,14 +17,14 @@ Punktliste
 1. Punkt 1
 2. Punkt 2 er også her
 
-# Terminologi
+## Terminologi
+
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
 
 <html>
-  </body>
     <table>
         <tr>
             <th>Begrep</th>
@@ -47,5 +47,4 @@ Punktliste
             <td>Trondheim</td>
         </tr>
     </table> 
-    </body>
 </html>
