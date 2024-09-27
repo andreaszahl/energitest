@@ -6,7 +6,7 @@ categories: [Nett, Energi]
 author: [andreas]
 ---
 
-Denne teksten skal introdusere og bla bla 
+Denne teksten skal introdusere og bla bla del2
 
 # Terminologi
 | begrep                          | beskrivelse                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
